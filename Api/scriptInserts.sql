@@ -3,14 +3,14 @@
 INSERT INTO Clientes (Cpf, Nome, SobreNome, Email, NomeSocial, DataCadastro)
 VALUES
 ('12345678909', 'Joao', 'Silva', 'joao.silva1@example.com', 'Joao S.', GETDATE()),
-('23456789012', 'Maria', 'Lima', 'maria.lima2@example.com', 'Maria L.', GETDATE()),
-('34567890123', 'Carlos', 'Santos', 'carlos.santos3@example.com', 'Carlos S.', GETDATE()),
-('45678901234', 'Ana', 'Souza', 'ana.souza4@example.com', 'Ana S.', GETDATE()),
-('56789012345', 'Pedro', 'Almeida', 'pedro.almeida5@example.com', 'Pedro A.', GETDATE()),
-('67890123456', 'Lucia', 'Ferreira', 'lucia.ferreira6@example.com', 'Lucia F.', GETDATE()),
-('78901234567', 'Marcos', 'Rocha', 'marcos.rocha7@example.com', 'Marcos R.', GETDATE()),
-('89012345678', 'Paula', 'Mendes', 'paula.mendes8@example.com', 'Paula M.', GETDATE()),
-('90123456789', 'Rafael', 'Costa', 'rafael.costa9@example.com', 'Rafael C.', GETDATE()),
+('14906072003', 'Maria', 'Lima', 'maria.lima2@example.com', 'Maria L.', GETDATE()),
+('35197924004', 'Carlos', 'Santos', 'carlos.santos3@example.com', 'Carlos S.', GETDATE()),
+('33252709058', 'Ana', 'Souza', 'ana.souza4@example.com', 'Ana S.', GETDATE()),
+('06992310003', 'Pedro', 'Almeida', 'pedro.almeida5@example.com', 'Pedro A.', GETDATE()),
+('33524370098', 'Lucia', 'Ferreira', 'lucia.ferreira6@example.com', 'Lucia F.', GETDATE()),
+('39688615072', 'Marcos', 'Rocha', 'marcos.rocha7@example.com', 'Marcos R.', GETDATE()),
+('32980021008', 'Paula', 'Mendes', 'paula.mendes8@example.com', 'Paula M.', GETDATE()),
+('88241771070', 'Rafael', 'Costa', 'rafael.costa9@example.com', 'Rafael C.', GETDATE()),
 ('01234567890', 'Beatriz', 'Barbosa', 'beatriz.barbosa0@example.com', 'Beatriz B.', GETDATE());
 GO
 
