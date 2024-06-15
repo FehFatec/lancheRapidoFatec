@@ -32,7 +32,7 @@ namespace Api.Controllers
             Summary = "Busca todos os produtos.",
             Description = @"Endpoint para retornar os produtos que foram cadastrados no sistema. A busca pode ser feita pelos filtros abaixo:</br></br>
                             <b>Parâmetros de entrada:</b></br></br>
-                             &bull; <b>idCategoria</b>:  Id da categoria do produto. &rArr; <font color='green'><b>Opcional</b></font><br>
+                             &bull; <b>idCategoria</b>:  Id da categoria do produto. &rArr; <font color='red'><b>Obrigatório</b></font><br>
                              <strong> 1 = </strong> Lanche<br/>
                              <strong> 2 = </strong> Acompanhamento<br/>
                              <strong> 3 = </strong>  Bebida<br/>
